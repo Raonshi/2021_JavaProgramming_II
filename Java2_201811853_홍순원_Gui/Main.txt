@@ -56,7 +56,7 @@ public class Main {
                             isFail = true;
                         }
                     }//end of for
-                    
+
                     if(isFail == true){
                         message.setText("로그인실패");
                     }

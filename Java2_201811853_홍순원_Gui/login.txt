@@ -1,0 +1,5 @@
+user1:admin1:홍순원
+user2:admin2:이두희
+user3:admin3:셰릴 샌드버그
+user4:admin4:마크 저커버그
+user5:admin5:일론 머스크
